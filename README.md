@@ -1,0 +1,2 @@
+# SteamDesktopAuthenticator
+git init
